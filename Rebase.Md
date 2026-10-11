@@ -1,2 +1,2 @@
 This is a rebase
-Rebase is good than merging 
+Rebase and merge both have some flaws
